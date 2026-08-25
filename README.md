@@ -16,7 +16,7 @@ The project combines **SQL and Power BI** to work with sales data, analyze key m
 - Create interactive reports for business analysis
 - Present data in an easy-to-understand visual format
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI**
 - **SQL**
@@ -68,7 +68,7 @@ The dashboard provides analysis of:
 | `.sql` | SQL queries used for the project |
 | `README.md` | Project documentation |
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download or clone this repository.
 2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
